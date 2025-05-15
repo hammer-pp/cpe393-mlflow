@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usEr/Documents/GitHub/cpe393-mlflow/mlruns/639091011841886520/31f618be56d546e796b6ba2548f6cdcf/artifacts
+end_time: 1747322184992
+entry_point_name: ''
+experiment_id: '639091011841886520'
+lifecycle_stage: active
+run_id: 31f618be56d546e796b6ba2548f6cdcf
+run_name: suave-pug-909
+run_uuid: 31f618be56d546e796b6ba2548f6cdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747322174330
+status: 3
+tags: []
+user_id: usEr

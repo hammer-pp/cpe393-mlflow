@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usEr/Documents/GitHub/cpe393-mlflow/mlruns/639091011841886520/7709bf827c7f4f5995434c6eb47eac18/artifacts
+end_time: 1747323018541
+entry_point_name: ''
+experiment_id: '639091011841886520'
+lifecycle_stage: active
+run_id: 7709bf827c7f4f5995434c6eb47eac18
+run_name: hilarious-gnat-798
+run_uuid: 7709bf827c7f4f5995434c6eb47eac18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747323014248
+status: 3
+tags: []
+user_id: usEr

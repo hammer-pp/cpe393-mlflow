@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/usEr/Documents/GitHub/cpe393-mlflow/mlruns/639091011841886520/a901c8f026cd4c49bfb94a18b2a25c2e/artifacts
+end_time: 1747323441066
+entry_point_name: ''
+experiment_id: '639091011841886520'
+lifecycle_stage: active
+run_id: a901c8f026cd4c49bfb94a18b2a25c2e
+run_name: intelligent-cub-482
+run_uuid: a901c8f026cd4c49bfb94a18b2a25c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747323437147
+status: 3
+tags: []
+user_id: usEr

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/359132417154449851
+creation_time: 1747323167225
+experiment_id: '359132417154449851'
+last_update_time: 1747323167225
+lifecycle_stage: active
+name: NYC Taxi tips experiment
